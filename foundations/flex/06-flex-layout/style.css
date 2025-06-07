@@ -21,6 +21,10 @@ button {
   background: #eee;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 input {
   border: 1px solid #ddd;
   border-radius: 16px;
